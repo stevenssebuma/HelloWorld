@@ -20,5 +20,5 @@ As a passionate software engineer, I am dedicated to continuously expanding my s
 
 # Useful Websites
 
-* [Web Site Name](https://www.w3schools.com/)
-* [Web Site Name](https://www.learnpython.org/)
+* [W3 Schools](https://www.w3schools.com/)
+* [Learn Python](https://www.learnpython.org/)
